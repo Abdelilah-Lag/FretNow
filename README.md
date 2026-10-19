@@ -14,7 +14,7 @@ FretNow was developed as a full-stack web application, with a modern frontend, a
 
 The application is hosted online and can be accessed through the live website.
 
-## 🌐 Live Demo
+## 🌐 Live
 
 **Explore the platform:** [https://fretnow.com](https://fretnow.com)
 
